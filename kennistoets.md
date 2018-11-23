@@ -20,4 +20,4 @@
 - Wat is de root-map van Apache-server?
   -  htdocs.
 
-- Benoem alle error-logs van *XAMPP*.
+- Benoem alle error-logs van **XAMPP**.
