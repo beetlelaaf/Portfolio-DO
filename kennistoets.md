@@ -78,11 +78,10 @@
 [Code] - [Answer] - [Additional-content]
 
 - `$type = gettype($tarief);` 
-  - double
-    - 
+  - [double]
 
 - `$euros = $tarief * $11;`
-  - error
+  - [error]
     -  geeft een error, want er is geen variabele $11 en je kan een variabele niet beginnen met een cijfer.
 
 </details>
