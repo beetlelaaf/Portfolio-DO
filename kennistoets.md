@@ -6,8 +6,7 @@
 [Question] - [Awnser]
 [Code] awnser is: [Awnser] [Extra].
 
-<details><summary>## Kennistoets 1.2 ##</summary>
-<p>
+<details><summary>1.2</summary>
 
 - Wat is een Call to Undefined function-error?
   - Wanneer eer een niet bestaande functie gedefineerd.
@@ -38,6 +37,5 @@
 
 - Waar kunne we een **PHP**-script embedden in een **HTML**-script?
   - Zolang het een `.php` file is, overal.
-  
-</p>
+
 </details>
