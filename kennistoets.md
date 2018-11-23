@@ -77,7 +77,7 @@
 ### Syntaxis antwoorden ###
 [Code] - [Answer]
 
-- [$type=gettype($tarief);]
+- `$type=gettype($tarief);` 
   - [double]
 
 </details>
