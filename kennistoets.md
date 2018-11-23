@@ -49,7 +49,31 @@
 
 - `$auto2`
   - juist
-  
+
+- `$auto's`
+  - onjuist
+
+- `$auto/onderdelen`
+  - onjuist
+
+- `$thuis&tuin`
+  - onjuist
+
+- `$naw`
+  - juist
+
+- `$n-a-w`
+  - onjuist
+
+- `$n_a_w`
+  - juist
+
+- `$$auto`
+  - onjuist
+
+- `$autoKleur`
+  - juist
+
 </details>
 
 <details><summary>1.4</summary>
