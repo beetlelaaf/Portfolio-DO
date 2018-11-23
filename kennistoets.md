@@ -8,7 +8,7 @@
 
 ## Kennistoets 1.2 ##
 
-Wat is een Call to Undefined function-error?
+- Wat is een Call to Undefined function-error?
   - Wanneer eer een niet bestaande functie gedefineerd.
  
  
