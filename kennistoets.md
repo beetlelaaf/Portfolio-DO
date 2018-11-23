@@ -12,5 +12,9 @@
   - Wanneer eer een niet bestaande functie gedefineerd.
 
 - Wat is de `phpinfo`-function?
+  - Dan krijg je info over de actuele PHP versie die op je computer zit.
+
+- Waar kun je Apache-server-fouten traceren?
+  - In `php_error.log`.
  
  
