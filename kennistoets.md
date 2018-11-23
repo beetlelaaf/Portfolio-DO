@@ -105,4 +105,10 @@
 - `$type=gettype($tarief);`
   - [string]
 
+- `echo $tarief;`
+  - ["21"]
+
+- `echo $tarief;`
+  - ["21"]
+
 </details>
