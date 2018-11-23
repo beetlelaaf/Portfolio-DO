@@ -21,3 +21,4 @@
   -  htdocs.
 
 - Benoem alle error-logs van **XAMPP**.
+  - **Apache:** `error.log`, **PHP:** `php_error_log`, **MySQL:** `mysql_error.log`
