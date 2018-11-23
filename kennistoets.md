@@ -1,7 +1,7 @@
  Kennis toets
  ------------
 
-###Syntaxis antwoorden###
+### Syntaxis antwoorden ###
  
  
  
