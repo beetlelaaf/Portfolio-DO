@@ -3,8 +3,11 @@
 
 ### Syntaxis antwoorden ###
 
-// hoi
- 
+[Code] awnser is: [Awnser] [Extra].
+
+## Kennistoets ##
+
+
  
  
  
