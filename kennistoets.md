@@ -84,4 +84,25 @@
   - [error]
     -  geeft een error, want er is geen variabele $11 en je kan een variabele niet beginnen met een cijfer.
 
+- `$tarief = round($tarief,2);`
+  - [21.21]
+
+- `$tarief = round($tarief);`
+  -  [21]
+    - het antwoord wordt afgerond tot een integer.
+
+- `printf("<br/>tarief is: $2.f",$tarief);` 
+  - [21.00]
+    - het antwoord wordt afgerond en weergeven tot 2 decimale.
+
+- `echo "Tarief: $tarief";` 
+  - [21]
+
+- `settype($tarief,"string");`
+  - ["21.21"]
+    -  veranderd de datatype van tarief in string.
+
+- `$type=gettype($tarief);`
+  - [string]
+
 </details>
