@@ -75,9 +75,14 @@
 <details><summary>1.4</summary>
 
 ### Syntaxis antwoorden ###
-[Code] - [Answer]
+[Code] - [Answer] - [Additional-content]
 
-- `$type=gettype($tarief);` 
+- `$type = gettype($tarief);` 
   - [double]
+    - 
+
+- `$euros = $tarief * $11;`
+  - [error]
+    -  geeft een error, want er is geen variabele $11 en je kan een variabele niet beginnen met een cijfer.
 
 </details>
