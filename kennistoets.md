@@ -10,6 +10,7 @@
 
 - Wat is een Call to Undefined function-error?
   - Wanneer eer een niet bestaande functie gedefineerd.
- 
+
+- Wat is de `phpinfo`-function?
  
  
