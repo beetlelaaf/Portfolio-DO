@@ -1,10 +1,3 @@
- Kennis toets
- ------------
-
-### Syntaxis antwoorden ###
-
-[Question] - [Answer]
-[Code] answer is: [Answer] [Extra].
 
  ## Kennistoetsen ##
 
@@ -12,6 +5,9 @@
 </details>
 
 <details><summary>1.2</summary>
+
+### Syntaxis antwoorden ###
+[Question] - [Answer]
 
 - Wat is een Call to Undefined function-error?
   - Wanneer eer een niet bestaande functie gedefineerd.
@@ -77,4 +73,11 @@
 </details>
 
 <details><summary>1.4</summary>
+
+### Syntaxis antwoorden ###
+[Code] - [Answer]
+
+- [$type=gettype($tarief);]
+  - [double]
+
 </details>
