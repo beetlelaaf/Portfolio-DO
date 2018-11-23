@@ -17,4 +17,7 @@
 - Waar kun je Apache-server-fouten traceren?
   - In `php_error.log`.
  
- 
+- Wat is de root-map van Apache-server?
+  -  htdocs.
+
+- Benoem alle error-logs van *XAMPP*.
