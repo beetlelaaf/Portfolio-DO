@@ -6,6 +6,8 @@
 [Question] - [Awnser]
 [Code] awnser is: [Awnser] [Extra].
 
+ ## Kennistoets 1.2 ##
+ 
 <details><summary>1.2</summary>
 
 - Wat is een Call to Undefined function-error?
