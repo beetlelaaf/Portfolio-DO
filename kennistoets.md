@@ -27,7 +27,7 @@
   - **CMS** Content Management System is een software om web-applicaties te creëren en te managen met weinig of geen programmeerervaring.
 
 - Wat is Joomla?
-  - een CMS programma.
+  - een **CMS** programma.
 
 - Wat is syntaxis?
   - Een syntaxis is een structuur en de reels van een commando's in een computerprogrammeertaal.
