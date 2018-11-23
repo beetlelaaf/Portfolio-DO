@@ -46,7 +46,9 @@
 </details>
 
 <details><summary>1.3</summary>
+- `$auto2`
+  - juist
 </details>
 
-<details><summary>1.3</summary>
+<details><summary>1.4</summary>
 </details>
