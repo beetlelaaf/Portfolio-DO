@@ -3,8 +3,8 @@
 
 ### Syntaxis antwoorden ###
 
-[Question] - [Awnser]
-[Code] awnser is: [Awnser] [Extra].
+[Question] - [Answer]
+[Code] answer is: [Answer] [Extra].
 
  ## Kennistoetsen ##
 
@@ -46,8 +46,10 @@
 </details>
 
 <details><summary>1.3</summary>
+
 - `$auto2`
   - juist
+  
 </details>
 
 <details><summary>1.4</summary>
