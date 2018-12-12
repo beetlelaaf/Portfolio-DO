@@ -118,5 +118,33 @@
 ### Syntaxis antwoorden ###
 [code] - [awnser] - [additional-content]
 
+- Wat doet de methode **unset()**?
+  - [Verwijderd een array element]
+
+- Wat doet de methode **print_r**?
+  - [Print de inhoud ven een array]
+    - _Snelste methode om te printen_
+
+- Wat doet de methode **array_search**?
+  - [Controleerd of een bepaald array-element in de array bestaat]
+
+- Wat doet de methode **array_push**?
+  - [Voegt een of meerdere elementen aan het einden van de array toe]
+
+- Wat is het verschil tussen **array_search** en **in_array**?
+  - [De return_waarde]
+
+- Wat doet de methode **array_key_exist**?
+  - [Controleerd of een bepaalde index in de array betaat]
+    - _key-element_
+
+- Welke methode gebruik je om een element op te zoeken?
+  - **array_search**
+
+- Welke mothode gebruik je om het laatste element te verwijderen?
+  - **array_pop**
+
+- Wat doet de methode **array_shift**
+  - [Verwijderd en retourneert het eerste element van de arry] 
 
 </details>
