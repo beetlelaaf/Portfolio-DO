@@ -112,3 +112,11 @@
   - ["21"]
 
 </details>
+
+<details><summary>1.5</summary>
+
+### Syntaxis antwoorden ###
+[code] - [awnser] - [additional-content]
+
+
+</details>
